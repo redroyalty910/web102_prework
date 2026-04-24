@@ -15,11 +15,11 @@ The following **required** functionality is completed:
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-## Video Walkthrough I just need to upload the video hehe i will finish it when I get the chance
+## Video Walkthrough (I did it!)
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.youtube.com/watch?v=3zZYryMjR_M
 
 ## Notes
 
